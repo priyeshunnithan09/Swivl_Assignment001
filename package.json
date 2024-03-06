@@ -1,0 +1,18 @@
+{
+  "name": "recipe-sharing-api",
+  "version": "1.0.0",
+  "description": "Recipe Share",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+},
+  "keywords": [],
+  "author": "Priyesh Unnithan",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.1"
+  }
+}
